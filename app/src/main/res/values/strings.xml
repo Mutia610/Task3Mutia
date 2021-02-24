@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Task3Mutia</string>
+    <string name="username">udacodingid</string>
+    <string name="pass">udacodingJaya2021</string>
+    <string name="erPass">Password kurang dari 6 digit</string>
+    <string name="msgPass">Password kurang dari 6 digit</string>
+    <string name="msgUserPassFalse">Username dan Password Anda Salah !</string>
+    <string name="erUsername">Username Harus Diisi</string>
+    <string name="msgUsername">Username Tidak Boleh Kosong</string>
+    <string name="erPassKosong">Password Harus Diisi</string>
+    <string name="msgPassKosong">Password Tidak Boleh Kosong</string>
+    <string name="msgPassUserKosong">Username dan Password Tidak Boleh Kosong</string>
+    <string name="erPjg">Panjang Harus Di Isi</string>
+    <string name="msgPjg">Inputan Panjang Masih Kosong</string>
+    <string name="erLbr">Lebar Harus Di Isi</string>
+    <string name="msgLbr">Inputan Lebar Masih Kosong</string>
+    <string name="erTinggi">Tinggi Harus Di Isi</string>
+    <string name="msgTinggi">Inputan Tinggi Masih Kosong</string>
+    <string name="luas">LUAS</string>
+    <string name="panjang">Input Panjang (meter)</string>
+    <string name="lebar">Input Lebar (meter)</string>
+    <string name="hasil">Hasil</string>
+    <string name="hasil_luas">Hasil Luas :</string>
+    <string name="volume">VOLUME</string>
+    <string name="tinggi">Input Tinggi (meter)</string>
+    <string name="hasil_volume">Hasil Volume</string>
+    <string name="password">Password</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="title2">Login to continue this App</string>
+    <string name="tvusername">Username</string>
+    <string name="login">Login</string>
+
+    <string-array name="satuan">
+        <item>km</item>
+        <item>hm</item>
+        <item>dam</item>
+        <item>m</item>
+        <item>dm</item>
+        <item>cm</item>
+        <item>mm</item>
+    </string-array>
+</resources>
